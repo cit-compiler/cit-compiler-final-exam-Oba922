@@ -278,7 +278,7 @@ NOTE: この文書に差し込んでいる下記ダミーファイルはJPEGフ�
 
 .作業中のMSYS2ターミナルの様子のスナップショット
 --
-c:\Users\das17\Pictures\Screenshots\スクリーンショット 2026-01-20 102903.png.[]
+c:\Users\das17\Pictures\Screenshots\スクリーンショット 2026-01-20 102903.png
 --
 NOTE: 人によってはVSCodeのターミナルペインを使っているかもしれない。その場合には、VSCodeのターミナル部分のスナップショットをとりなさい。
 
